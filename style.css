@@ -3,3 +3,21 @@
     width: 250px;
     height: 100px;
 }
+
+h1{
+    font-size: 45px;
+}
+
+h2{
+font-size:30px;
+
+}
+
+h3{
+    font-size:20px;
+}
+
+.main-content{
+    margin-top:90px;
+}
+
